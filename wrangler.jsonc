@@ -13,6 +13,6 @@
 		},
 	],
 	"vars": {
-		"TURNSTILE_SITE_KEY": "1x00000000000000000000AA",
+		"TURNSTILE_SITE_KEY": "0x4AAAAAAFAEv9ceXQx2Fhco",
 	},
 }
